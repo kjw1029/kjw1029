@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Java?style=plastic&logoColor=#512BD4"/></a>
+<img src="https://img.shields.io/badge/Java?style=plastic&logo=appveyor&logoColor=#512BD4"/></a>
 
 <!--
 **kjw1029/kjw1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
