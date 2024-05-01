@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white"/></t>
@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw1029&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw1029&show_icons=true&theme=transparent)
 
 
 
